@@ -26,6 +26,6 @@ Sphere: 1.86m Radius
 Cone: 9.00m tall, 1.69m Radius
 
 ###Running
-This can be run from the terminal using 'python DailyProgrammer-193-Easy.py' or 'python DailyProgrammer-193-Easy.py <list of volumes separated by whitespace>'
+This can be run from the terminal using 'python DailyProgrammer-193-Easy.py' or 'python DailyProgrammer-193-Easy.py \<list of volumes separated by whitespace\>'
 
 
