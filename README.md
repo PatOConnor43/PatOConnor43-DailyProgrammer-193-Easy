@@ -17,12 +17,16 @@ Ball (Sphere)
 Cylinder
 Cone
 ###Example Input:
-27
+'python DailyProgrammer-193-Easy.py' or 'python DailyProgrammer-193-Easy.py \<list of volumes separated by whitespace\>'
 ###Example Output:
 Volume = 27
+
 Cube: 3.00m width, 3.00m, high, 3.00m tall
+
 Cylinder: 3.00m tall, Diameter of 3.38m
+
 Sphere: 1.86m Radius
+
 Cone: 9.00m tall, 1.69m Radius
 
 ###Running
